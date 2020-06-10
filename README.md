@@ -1,3 +1,4 @@
 Rearrange
 
-A module to rearrange names.
+
+This module is used to rearranging names.
