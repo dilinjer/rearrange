@@ -1,2 +1,4 @@
-# rearrange
-new rearrange repo for training
+Rearranging
+===========
+
+This is used to rearrange the names. 
