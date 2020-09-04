@@ -1,2 +1,2 @@
-# rearrange
-new rearrange repo for training
+
+This module is used for rearranging
